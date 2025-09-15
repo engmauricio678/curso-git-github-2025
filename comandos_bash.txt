@@ -1,3 +1,5 @@
 ls -> lista arquivos do diretório
 cd -> move entre diretórios
 pwd -> mostra caminho absoluto
+cat -> exibe conteúdo do arquivo
+rm  -> exclui arquivo
